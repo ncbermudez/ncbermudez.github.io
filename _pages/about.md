@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am first year PhD Student in Humanities and Social Sciences of Medicine and Health at University of Lausanne. I am interested in gender inequalities, public health, and social protection topics in Low -and Middle-Income countries. Currently, my research agenda focuses on gender inequalities in health and human capital accumulation across the lifespan. In my research, I use quantitative methods, household panel data, and cross-sectional surveys, with a special emphasis on cuasal designs. 
+I am first year PhD Student in Humanities and Social Sciences of Medicine and Health at University of Lausanne. I am interested in gender inequalities, public health, and human capital accumulation across the lifespan. In my research, I use quantitative methods, household panel data, and cross-sectional surveys, with a special emphasis on causal designs. 
 
 I have research and policy experience working as a consultant on public health, social protection, and digital health transformation in multilateral organizations in Colombia, the United States, and Haiti. I am currently affiliated at Universidad de los Andes, Colombia, as Research Assisstant for the mental health and economic track of the research project [Improving Adolescent Mental Health by Tackling the Impact of Poverty – ALIVE](https://www.alive4mentalhealth.org/). 
 
