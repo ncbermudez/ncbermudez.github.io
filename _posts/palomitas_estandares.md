@@ -1,7 +1,7 @@
 ---
 title: '¿Qué tienen en común las palomitas o los buñuelos con los estándares de interoperabilidad en salud?'
 date: 2021-08-23
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2021/08/blog-post-1/
 tags:
   - cool posts
   - category1
