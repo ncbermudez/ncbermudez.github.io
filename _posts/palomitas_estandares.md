@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-#This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Un objeto puede tener diferentes nombres en cada país, pero en salud no puede haber lugar para ambigüedades. Por suerte aquí, contamos con interoperabilidad
