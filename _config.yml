@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Neili Carolina Bermúdez-Plaza"
+title                    : "Neili Bermúdez-Plaza"
 title_separator          : "-"
-name                     : &name "Neili Carolina Bermúdez-Plaza"
+name                     : &name "Neili Bermúdez-Plaza"
 description              : &description "PhD Student, Université de Lausanne"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://ncbermudez.github.io"  # The base hostname & protocol for your site e.g. https://[your GitHub username].github.io                                            
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Neili Carolina Bermúdez-Plaza"
+  name             : "Neili Bermúdez-Plaza"
   pronouns         : # example: "she/her"  
   bio              : " "
   location         : "Lausanne"
