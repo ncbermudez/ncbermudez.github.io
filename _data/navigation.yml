@@ -12,10 +12,10 @@ main:
     url: /cv/
 
   - title: "Work in Progress"
-    url: /publications/
+    url: /workinprogress/
     
-  - title: "Policy Writing"
-    url: /year-archive/
+  - title: "Policy Writings"
+    url: /policywritings/
 
   #  - title: "Talks"
   #   url: /talks/    
