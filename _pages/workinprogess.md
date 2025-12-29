@@ -7,5 +7,5 @@ author_profile: true
 
 ## Gender Inequalities
 
-Gender Differences in Mental Health and Career Prospects for Youth at Risk in Colombia **In progress**
+Gender Differences in Mental Health and Career Prospects for Youth at Risk in Colombia. **In progress**
 
