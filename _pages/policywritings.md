@@ -13,7 +13,7 @@ The Social Protection and Health (SPH) Division of the IDB hosted its annual Reg
 Un objeto puede tener diferentes nombres en cada país, pero en salud no puede haber lugar para ambigüedades. Por suerte aquí, contamos con interoperabilidad [link](https://www.iadb.org/es/blog/salud-nutricion-y-poblacion/que-tienen-en-comun-las-palomitas-o-los-bunuelos-con-los-estandares-de-interoperabilidad-en-salud) 
 
 * **(2021), Reapertura de centros de cuidados infantil: ¿Cuáles y cómo priorizar?** with Julieth Parra Hincapie _In Spanish_
-¿Qué retos presentan la reapertura de centros de cuidado infantil?  Te compartimos la experiencia de países que ya incurrieron en la reapertura[link](https://www.iadb.org/es/blog/desarrollo-infantil-temprano/reapertura-de-centros-de-cuidados-infantil-cuales-y-como-priorizar)
+¿Qué retos presentan la reapertura de centros de cuidado infantil?  Te compartimos la experiencia de países que ya incurrieron en la reapertura [link](https://www.iadb.org/es/blog/desarrollo-infantil-temprano/reapertura-de-centros-de-cuidados-infantil-cuales-y-como-priorizar)
 
 * **(2021), 3 países, 3 lecciones: reapertura de centros infantiles y preescolares** with Martha Rubio Codina and Julieth Parra Hincapie _In Spanish_
 ¿Cómo es la experiencia de los países de América Latina y el Caribe en la reapertura de centros de cuidado infantil y preescolares? Te presentamos 3 casos [link] (https://www.iadb.org/es/blog/desarrollo-infantil-temprano/3-paises-3-lecciones-reapertura-de-centros-infantiles-y-preescolares)
