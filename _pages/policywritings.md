@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-* **(2024), [Building Adaptative Social Protection Systems in Latin America and the Caribbean] (http://dx.doi.org/10.18235/0013253)** with Ofir Marer, Alexandre Bagolle, Luis Tejerina
+* **(2024), [Building Adaptative Social Protection Systems in Latin America and the Caribbean](http://dx.doi.org/10.18235/0013253)** with Ofir Marer, Alexandre Bagolle, Luis Tejerina
 
 The Social Protection and Health (SPH) Division of the IDB hosted its annual Regional Policy Dialogue (RPD) on Adaptive Social Protection Systems aimed to address the increasing vulnerability of households to natural disasters, economic disruptions, and health crises, many of which are exacerbated by climate change
 
