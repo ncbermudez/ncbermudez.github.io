@@ -16,7 +16,7 @@ Un objeto puede tener diferentes nombres en cada país, pero en salud no puede h
 ¿Qué retos presentan la reapertura de centros de cuidado infantil?  Te compartimos la experiencia de países que ya incurrieron en la reapertura [link](https://www.iadb.org/es/blog/desarrollo-infantil-temprano/reapertura-de-centros-de-cuidados-infantil-cuales-y-como-priorizar)
 
 * **(2021), 3 países, 3 lecciones: reapertura de centros infantiles y preescolares** with Martha Rubio Codina and Julieth Parra Hincapie _In Spanish_
-¿Cómo es la experiencia de los países de América Latina y el Caribe en la reapertura de centros de cuidado infantil y preescolares? Te presentamos 3 casos [link] (https://www.iadb.org/es/blog/desarrollo-infantil-temprano/3-paises-3-lecciones-reapertura-de-centros-infantiles-y-preescolares)
+¿Cómo es la experiencia de los países de América Latina y el Caribe en la reapertura de centros de cuidado infantil y preescolares? Te presentamos 3 casos [link](https://www.iadb.org/es/blog/desarrollo-infantil-temprano/3-paises-3-lecciones-reapertura-de-centros-infantiles-y-preescolares)
 
 * **(2021), ¿Cómo avanza la reapertura de servicios a la primera infancia en América Latina y el Caribe? Un mapeo de la región** with Juan Manuel Monroy Barragán _In Spanish_
 Presentamos un mapa interactivo que caracteriza el estado de apertura de programas de trabajo con familias, centros infantiles y preescolares [link](https://www.iadb.org/es/blog/desarrollo-infantil-temprano/como-avanza-la-reapertura-de-servicios-la-primera-infancia-en-america-latina-y-el-caribe-un-mapeo-de)
