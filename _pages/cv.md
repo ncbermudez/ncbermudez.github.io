@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 You can download a PDF copy of my CV [here](/files/cv_ncbermudez_2026.pdf).
 
-<iframe src="/files/cv_ncbermudez_dec2025.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/cv_ncbermudez_2026.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
